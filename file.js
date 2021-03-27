@@ -5907,5 +5907,5 @@ var pay = {
       "modified": []
     }
   }
-  console.log(pay.before);
+  console.log(pay.commits.length);
 
